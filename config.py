@@ -159,66 +159,66 @@ autoclean = []
 
 
 # Images
-START_IMG_URL = getenv("START_IMG_URL", "https://graph.org/file/7c1dffc198eef66eaf21f.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://graph.org/file/5116833a2ff257ca4c14d.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://te.legra.ph/file/3b9f96233823994e49fc1.jpg",
+    "https://graph.org/file/66170457183b8d6a7fb3d.jpg",
 )
 
 PLAYLIST_IMG_URL = getenv(
     "PLAYLIST_IMG_URL",
-    "https://te.legra.ph/file/3b9f96233823994e49fc1.jpg",
+    "https://graph.org/file/b8e6a9a80e7e6b521b545.jpg",
 )
 
 GLOBAL_IMG_URL = getenv(
     "GLOBAL_IMG_URL",
-    "https://te.legra.ph/file/3b9f96233823994e49fc1.jpg",
+    "https://graph.org/file/b8e6a9a80e7e6b521b545.jpg",
 )
 
 STATS_IMG_URL = getenv(
     "STATS_IMG_URL",
-    "https://te.legra.ph/file/3b9f96233823994e49fc1.jpg",
+    "https://graph.org/file/b8e6a9a80e7e6b521b545.jpg",
 )
 
 TELEGRAM_AUDIO_URL = getenv(
     "TELEGRAM_AUDIO_URL",
-    "https://te.legra.ph/file/3b9f96233823994e49fc1.jpg",
+    "https://graph.org/file/b8e6a9a80e7e6b521b545.jpg",
 )
 
 TELEGRAM_VIDEO_URL = getenv(
     "TELEGRAM_VIDEO_URL",
-    "https://te.legra.ph/file/3b9f96233823994e49fc1.jpg",
+    "https://graph.org/file/b8e6a9a80e7e6b521b545.jpg",
 )
 
 STREAM_IMG_URL = getenv(
     "STREAM_IMG_URL",
-    "https://te.legra.ph/file/3b9f96233823994e49fc1.jpg",
+    "https://graph.org/file/b8e6a9a80e7e6b521b545.jpg",
 )
 
 SOUNCLOUD_IMG_URL = getenv(
     "SOUNCLOUD_IMG_URL",
-    "https://te.legra.ph/file/ecdeac045f4045c198bd6.jpg",
+    "https://graph.org/file/b8e6a9a80e7e6b521b545.jpg",
 )
 
 YOUTUBE_IMG_URL = getenv(
     "YOUTUBE_IMG_URL",
-    "https://te.legra.ph/file/3b9f96233823994e49fc1.jpg",
+    "https://graph.org/file/b8e6a9a80e7e6b521b545.jpg",
 )
 
 SPOTIFY_ARTIST_IMG_URL = getenv(
     "SPOTIFY_ARTIST_IMG_URL",
-    "https://te.legra.ph/file/3b9f96233823994e49fc1.jpg",
+    "https://graph.org/file/b8e6a9a80e7e6b521b545.jpg",
 )
 
 SPOTIFY_ALBUM_IMG_URL = getenv(
     "SPOTIFY_ALBUM_IMG_URL",
-    "https://te.legra.ph/file/3b9f96233823994e49fc1.jpg",
+    "https://graph.org/file/b8e6a9a80e7e6b521b545.jpg",
 )
 
 SPOTIFY_PLAYLIST_IMG_URL = getenv(
     "SPOTIFY_PLAYLIST_IMG_URL",
-    "https://te.legra.ph/file/3b9f96233823994e49fc1.jpg",
+    "https://graph.org/file/b8e6a9a80e7e6b521b545.jpg",
 )
 
 
